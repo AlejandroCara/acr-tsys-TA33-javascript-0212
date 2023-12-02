@@ -1,0 +1,32 @@
+.cointainer {
+    width: 140px;
+}
+
+.cointainer img {
+    width: 140px;
+    border: 1px solid white;
+}
+
+.cointainer img:hover {
+    border: 1px solid red;
+}
+
+#main { 
+    height: 900px;
+    float: left;
+}
+
+#bigPictureContainer {
+    width: 1500px;
+    height: 900px;
+    float: left;
+    margin-left: 40px;
+    margin-top: 20px;
+    padding: 0;
+}
+
+#bigPicture {
+    width: 1500px;
+    height: 900px;
+    margin: 0;
+}
